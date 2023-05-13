@@ -1,4 +1,4 @@
-# hiperblog:tw :fa-github-alt:
+# hiperblog :fa-github-alt:
 Un blog increíble para el[curso de Git y Github](https://platzi.com/cursos/git-github/)de [Platzi](https://platzi.com/"Platzi")
 > El curso de Git y GitHub de Platzi es lo que me hacia falta para triplicar mi salario  lanzarme a la industria del tejido de lana sintetica con Machine Learning>
 
